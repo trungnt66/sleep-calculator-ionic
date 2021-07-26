@@ -1,0 +1,7 @@
+{
+  "name": "sleep-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

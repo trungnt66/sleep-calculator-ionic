@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sleep-calculator",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
